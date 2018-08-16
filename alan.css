@@ -17,7 +17,7 @@ h2,h3{
 	text-decoration: underline;
 }
 body{
-	background-color: skyblue;
+	background-color: #00ffff;
 	font-style: sans-serif;
 }
 img{
@@ -60,5 +60,9 @@ iframe{
 	height: 400px;
 	width: 600px;
 }
-.centermain{}
+.centermain{
+	font: 600 12px/1.2 'Oleo Script', Helvetica, sans-serif;
+	  color: #2b2b2b;
+  text-shadow: 4px 4px 4px rgba(1,0,0,0.1);
+}
 
